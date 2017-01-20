@@ -1,0 +1,6 @@
+public class RFE_001_A{
+
+   Public void info(){
+          system.out.println("RFE_001_A");
+    }
+}
